@@ -6,7 +6,7 @@
 
 위 홍보물은 공모전 __별빛신사리🌟__ 에 참가하여 제작한 홍보물입니다.
 
-진격의 곱창 알아보러 가기 👉 https://seungbeen803.github.io/jingyeog_gobchang/ 👈
+진격의 곱창 알아보러 가기 👉 https://dbdbennn.github.io/forward_guts/ 👈
 <hr/>
 
 **👩🏼‍💻 참가 인원**
