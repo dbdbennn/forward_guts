@@ -12,21 +12,6 @@ header {
     z-index: 100;
 }
 
-/* nav */
-.nav {
-    display: flex;
-    justify-content: center;
-    gap: 45px;
-    align-items: center;
-    height: 75px;
-}
-
-.nav a {
-    text-decoration: none;
-    color: #b29f35;
-    font-size: 20px;
-}
-
 /* nav end */
 
 /* 내용 */
@@ -187,15 +172,6 @@ strong {
         margin-top: 20px;
     }
 
-    /* nav */
-    .nav {
-        gap: 25px;
-        height: 70px;
-    }
-
-    .nav a {
-        font-size: 18px;
-    }
 }
 
 /* phone size */
@@ -220,16 +196,6 @@ strong {
     .overlayout {
         top: 35%;
 
-    }
-
-    /* nav */
-    .nav {
-        gap: 15px;
-        height: 50px;
-    }
-
-    .nav a {
-        font-size: 16px;
     }
 
     .carousel-inner {
